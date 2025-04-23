@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Trivedi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&center=true&vCenter=true&color=36BCF7&width=500&lines=A+passionate+frontend+developer+/+Java+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&center=true&vCenter=true&color=36BCF7&width=500&lines=A+passionate+frontend+developer+from+India" alt="Typing SVG" />
 </p>
 
 
